@@ -1,0 +1,19 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.pj{
+display: flex;
+justify-content: space-around;
+padding: 10px;
+margin-top:  10px;
+}
+span{
+ color: #02FDFD;
+
+
+}
+.Button .cambia{
+  text-decoration: none;
+}
+
